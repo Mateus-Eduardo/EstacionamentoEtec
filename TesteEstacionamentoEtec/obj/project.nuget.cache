@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eYB4hDAwXlLFcC23eX0hMultrZj04JKzb6x2kgsDMBYOT4KmDIWfA1vMGpSX/ah6ybP4PsNgkFHHzTx2zbl1pA==",
+  "dgSpecHash": "qVIlZelfCYph6kWgVmKEXv9tTIEMhMF64Z0fKL7aq9lMYNoUpG4rcgZmZxszWWW1hh+okhufRmgnJV6kkqV9DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etec\\Desktop\\TesteEstacionamentoEtec\\TesteEstacionamentoEtec.csproj",
+  "projectFilePath": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\TesteEstacionamentoEtec\\TesteEstacionamentoEtec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

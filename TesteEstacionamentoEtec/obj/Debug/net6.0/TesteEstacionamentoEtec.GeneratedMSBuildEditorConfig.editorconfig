@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TesteEstacionamentoEtec
-build_property.ProjectDir = C:\Users\etec\Desktop\TesteEstacionamentoEtec\
+build_property.ProjectDir = C:\Users\etec\Documents\GitHub\EstacionamentoEtec\TesteEstacionamentoEtec\

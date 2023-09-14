@@ -5538,11 +5538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Desktop\\TesteEstacionamentoEtec\\TesteEstacionamentoEtec.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\TesteEstacionamentoEtec\\TesteEstacionamentoEtec.csproj",
       "projectName": "TesteEstacionamentoEtec",
-      "projectPath": "C:\\Users\\etec\\Desktop\\TesteEstacionamentoEtec\\TesteEstacionamentoEtec.csproj",
+      "projectPath": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\TesteEstacionamentoEtec\\TesteEstacionamentoEtec.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Desktop\\TesteEstacionamentoEtec\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\TesteEstacionamentoEtec\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5559,8 +5559,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\etec\\Desktop\\Etec.Estacionamento\\Etec.Estacionamento.csproj": {
-              "projectPath": "C:\\Users\\etec\\Desktop\\Etec.Estacionamento\\Etec.Estacionamento.csproj"
+            "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\Etec.Estacionamento\\Etec.Estacionamento.csproj": {
+              "projectPath": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\Etec.Estacionamento\\Etec.Estacionamento.csproj"
             }
           }
         }

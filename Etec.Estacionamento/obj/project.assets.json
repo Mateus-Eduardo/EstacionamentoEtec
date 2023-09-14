@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Desktop\\Etec.Estacionamento\\Etec.Estacionamento.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\Etec.Estacionamento\\Etec.Estacionamento.csproj",
       "projectName": "Etec.Estacionamento",
-      "projectPath": "C:\\Users\\etec\\Desktop\\Etec.Estacionamento\\Etec.Estacionamento.csproj",
+      "projectPath": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\Etec.Estacionamento\\Etec.Estacionamento.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Desktop\\Etec.Estacionamento\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Documents\\GitHub\\EstacionamentoEtec\\Etec.Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
